@@ -1,3 +1,4 @@
 Meu arquivo contém caracteres de texto.
 (Alt.)
+Linha nova no texto
 Eu não sou louco
