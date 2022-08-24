@@ -1,1 +1,3 @@
 Meu arquivo contém caracteres de texto.
+(Alt.)
+Eu não sou louco
