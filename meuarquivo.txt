@@ -1,4 +1,5 @@
 Meu arquivo contém caracteres de texto.
 (Alt.)
-Linha nova no texto
+Uma linha muito nova !eeelç
 Eu não sou louco
+Nova última linha!
